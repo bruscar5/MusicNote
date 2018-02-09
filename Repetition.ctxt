@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rep\ pos
+comment0.target=Repetition(boolean,\ int)
+comment1.params=
+comment1.target=boolean\ getRepetition()
+comment2.params=rep
+comment2.target=void\ setRepetition(boolean)
+comment3.params=pos
+comment3.target=void\ setPosition(int)
+comment4.params=
+comment4.target=int\ getPosition()
+numComments=5

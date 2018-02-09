@@ -1,0 +1,15 @@
+C4 q false
+C2 q false
+C4 q false
+C4 q false
+E4 q false
+C4 q false
+D6 q false
+C4 q false
+C4 q false
+D4 q false
+C4 q false
+C4 q false
+E3 q false
+C4 q false
+C5 q false
